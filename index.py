@@ -151,7 +151,7 @@ dog.walk()
 dog.bark()
 '''
 
-#Random Values.
+'''#Random Values.
 import random
 
 class Dice:
@@ -162,4 +162,4 @@ class Dice:
         return (first,second,third)
 
 dice = Dice()
-print(dice.roll())  
+print(dice.roll()) ''' 
